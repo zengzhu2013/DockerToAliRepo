@@ -1,5 +1,5 @@
 #redis:7.4.1
-#nginx:1.27.2
+nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
@@ -15,6 +15,6 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-nacos/nacos-server:v3.0.1
+#nacos/nacos-server:v3.0.1
 
 
