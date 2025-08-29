@@ -16,6 +16,5 @@
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
-#
-milvus:v2.6.0
+milvusdb/milvus:v2.6.0
 
