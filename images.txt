@@ -18,3 +18,4 @@
 #nacos/nacos-server:v3.0.1
 #
 milvus:v2.6.0
+
