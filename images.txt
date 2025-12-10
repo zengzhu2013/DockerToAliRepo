@@ -18,4 +18,4 @@
 #nacos/nacos-server:v3.0.1
 #milvusdb/milvus:v2.6.0
 #ghcr.io/spring-ai-alibaba/jmanus:v4.7.0
-openjdk:11-jdk
+openjdk:11-jdk-slim
